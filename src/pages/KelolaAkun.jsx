@@ -25,8 +25,8 @@ export default function KelolaAkun() {
                     <tbody>
                       <tr>
                         <td>1</td>
-                        <td>Anis Sulala</td>
-                        <td>Canis@gmail.com</td>
+                        <td>Adrian Adhari</td>
+                        <td>user@gmail.com</td>
                         <td>08213787234</td>
                       </tr>
                     </tbody>

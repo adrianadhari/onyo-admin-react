@@ -39,6 +39,78 @@ export default function KelolaSopir() {
                       <tr>
                         <td>1</td>
                         <td>Muhammad Firly</td>
+                        <td>41</td>
+                        <td>
+                          <button
+                            className="btn btn-secondary btn-sm"
+                            type="button"
+                          >
+                            Lihat
+                          </button>
+                        </td>
+                        <td>
+                          <button
+                            className="btn btn-secondary btn-sm"
+                            type="button"
+                          >
+                            Lihat
+                          </button>
+                        </td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-sopir/detail-sopir"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-sopir/edit-sopir"
+                          >
+                            Edit
+                          </Link>
+                          <Link className="btn btn-danger">Hapus</Link>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>2</td>
+                        <td>Firdaus</td>
+                        <td>20</td>
+                        <td>
+                          <button
+                            className="btn btn-secondary btn-sm"
+                            type="button"
+                          >
+                            Lihat
+                          </button>
+                        </td>
+                        <td>
+                          <button
+                            className="btn btn-secondary btn-sm"
+                            type="button"
+                          >
+                            Lihat
+                          </button>
+                        </td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-sopir/detail-sopir"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-sopir/edit-sopir"
+                          >
+                            Edit
+                          </Link>
+                          <Link className="btn btn-danger">Hapus</Link>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>3</td>
+                        <td>Muhammad Ginanjar</td>
                         <td>21</td>
                         <td>
                           <button

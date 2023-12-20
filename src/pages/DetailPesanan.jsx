@@ -17,11 +17,11 @@ export default function DetailPesanan() {
                 <table className="table table-bordered table-hover bg-white">
                   <tr className="p-3">
                     <th>Kode Sewa</th>
-                    <td>: TCD0E213</td>
+                    <td>: BK00001</td>
                   </tr>
                   <tr>
                     <th>Mobil</th>
-                    <td>: Honda Brio</td>
+                    <td>: Toyota Innova Reborn</td>
                   </tr>
                   <tr>
                     <th>Tanggal Mulai</th>
@@ -29,31 +29,31 @@ export default function DetailPesanan() {
                   </tr>
                   <tr>
                     <th>Tanggal Selesai</th>
-                    <td>: 29/11/2023</td>
+                    <td>: 30/11/2023</td>
                   </tr>
                   <tr>
                     <th>Durasi</th>
-                    <td>: 1 Hari</td>
+                    <td>: 2 Hari</td>
                   </tr>
                   <tr>
                     <th>Metode Sewa</th>
-                    <td>: Pakai Sopir</td>
+                    <td>: Lepas Kunci</td>
                   </tr>
                   <tr>
                     <th>Nama Penyewa</th>
-                    <td>: Anis Sulala</td>
+                    <td>: Adrian Adhari</td>
                   </tr>
                   <tr>
                     <th>Biaya Driver</th>
-                    <td>: Rp 85.000</td>
+                    <td>: -</td>
                   </tr>
                   <tr>
                     <th>Biaya Mobil</th>
-                    <td>: Rp 600.000</td>
+                    <td>: Rp 250.000</td>
                   </tr>
                   <tr>
                     <th>Total Biaya</th>
-                    <td>: Rp 685.000</td>
+                    <td>: Rp 500.000</td>
                   </tr>
                   <tr>
                     <th>Status</th>

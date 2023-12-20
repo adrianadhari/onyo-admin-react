@@ -46,7 +46,7 @@ export default function Dashboard() {
                         </div>
                       </div>
                     </div>
-                    <h1 className="mt-1 mb-3">10</h1>
+                    <h1 className="mt-1 mb-3">1</h1>
                   </div>
                 </div>
               </div>
@@ -64,7 +64,7 @@ export default function Dashboard() {
                         </div>
                       </div>
                     </div>
-                    <h1 className="mt-1 mb-3">52</h1>
+                    <h1 className="mt-1 mb-3">1</h1>
                   </div>
                 </div>
               </div>
@@ -82,7 +82,7 @@ export default function Dashboard() {
                         </div>
                       </div>
                     </div>
-                    <h1 className="mt-1 mb-3">12</h1>
+                    <h1 className="mt-1 mb-3">1</h1>
                   </div>
                 </div>
               </div>

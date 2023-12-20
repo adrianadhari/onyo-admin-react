@@ -28,7 +28,7 @@ export default function KelolaPesanan() {
                     <tbody>
                       <tr>
                         <td>1</td>
-                        <td>Anis Sulala</td>
+                        <td>Adrian Adhari</td>
                         <td>Toyota Innova Reborn</td>
                         <td>Transfer Bank</td>
                         <td>Menunggu konfirmasi</td>

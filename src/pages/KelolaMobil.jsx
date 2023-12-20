@@ -42,10 +42,202 @@ export default function KelolaMobil() {
                         <td>1</td>
                         <td>Toyota Innova Reborn</td>
                         <td>Crossover</td>
-                        <td>600.000</td>
-                        <td>4</td>
+                        <td>450.000</td>
+                        <td>7</td>
+                        <td>Bensin</td>
+                        <td>Manual</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>2</td>
+                        <td>Honda Brio</td>
+                        <td>MPV</td>
+                        <td>250.000</td>
+                        <td>6</td>
                         <td>Bensin</td>
                         <td>Matic</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>3</td>
+                        <td>Toyota Fortuner</td>
+                        <td>SUV</td>
+                        <td>600.000</td>
+                        <td>7</td>
+                        <td>Bensin</td>
+                        <td>Matic</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>4</td>
+                        <td>Toyota Grand Innova</td>
+                        <td>MPV</td>
+                        <td>250.000</td>
+                        <td>8</td>
+                        <td>Bensin</td>
+                        <td>Manual</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>5</td>
+                        <td>Mitsubishi Expander</td>
+                        <td>Crossover</td>
+                        <td>250.000</td>
+                        <td>8</td>
+                        <td>Bensin</td>
+                        <td>Matic</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>6</td>
+                        <td>Suzuki Ertiga</td>
+                        <td>MPV</td>
+                        <td>300.000</td>
+                        <td>7</td>
+                        <td>Bensin</td>
+                        <td>Matic</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>7</td>
+                        <td>Mitsubishi Pajero Sport</td>
+                        <td>SUV</td>
+                        <td>600.000</td>
+                        <td>7</td>
+                        <td>Diesel</td>
+                        <td>Manual</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>8</td>
+                        <td>Toyota Agya</td>
+                        <td>LCGC</td>
+                        <td>250.000</td>
+                        <td>7</td>
+                        <td>Bensin</td>
+                        <td>Manual</td>
+                        <td>
+                          <Link
+                            className="btn btn-success"
+                            to="/kelola-mobil/detail-mobil"
+                          >
+                            Detail
+                          </Link>
+                          <Link
+                            className="btn btn-warning mx-2"
+                            to="/kelola-mobil/edit-mobil"
+                          >
+                            Edit
+                          </Link>
+                          <button className="btn btn-danger">Hapus</button>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>9</td>
+                        <td>Daihatsu Ayla</td>
+                        <td>LCGC</td>
+                        <td>250.000</td>
+                        <td>7</td>
+                        <td>Bensin</td>
+                        <td>Manual</td>
                         <td>
                           <Link
                             className="btn btn-success"
